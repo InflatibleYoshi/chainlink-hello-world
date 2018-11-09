@@ -33,6 +33,5 @@ sudo chown -R $USER /opt/go
 
 npm install -g npm
 npm install -g solc
-npm install -g truffle
-npm install -g remix-ide
+
 ```
